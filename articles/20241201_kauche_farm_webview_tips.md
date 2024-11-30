@@ -55,14 +55,16 @@ JavaScript Interface の特徴
 
 上記の特徴も踏まえ、カウシェファームでは Internal URL Scheme と JavaScript Interface を以下のように使い分けています。
 
-◆主な使い分け
+### 使い分け
 - Web → アプリ への一方的な処理実行
-    - → Internal URL Scheme を利用
+    ![](/images/20241201_kauche_farm_webview_tips/2024-12-01_8.10.09.png)
+    *Internal URL Scheme を使用*
     - 使用例）
         - Webからアプリに対して任意の処理を実行
         - Webからアプリの特定画面に遷移
 - Web ↔ アプリ 間での双方向な処理
-    - → JavaScript Interface を利用
+    ![](/images/20241201_kauche_farm_webview_tips/2024-12-01_8.12.06.png)
+    *JavaScript Interface を使用*
     - 使用例）
         - Webからアプリに対して任意の処理を実行し、実行結果をアプリからWebに返す
 
