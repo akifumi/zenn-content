@@ -7,6 +7,8 @@ published: true
 ---
 
 こんにちは。株式会社カウシェの [@akifumi](https://x.com/akifumifukaya) です。
+[カウシェ Advent Calendar 2024](https://adventar.org/calendars/10885) 1日目を担当させていただきます。
+
 本記事では、カウシェ内で作物を育てることができるゲーム「カウシェファーム」の裏側の仕組みについてご説明します。
 
 ## はじめに
