@@ -3,7 +3,7 @@ title: "カウシェ Mobile Team のAI活用最前線〜考え方・実践・未
 emoji: "⚔️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ai", "llm", "chatgpt", "ios", "android"]
-published: false
+published: true
 publication_name: "kauche"
 ---
 
