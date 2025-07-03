@@ -1,6 +1,6 @@
 ---
 title: カウシェ Mobile Team 開発現場の"今"
-emoji: 🔥
+emoji: 🏃
 type: tech
 topics:
   - ai
@@ -8,7 +8,7 @@ topics:
   - chatgpt
   - ios
   - android
-published: false
+published: true
 publication_name: kauche
 ---
 
