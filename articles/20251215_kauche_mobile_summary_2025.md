@@ -3,7 +3,7 @@ title: "開発生産性が3.6倍に。〜AIで成果を非連続に成長させ�
 emoji: "🚀"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["ai", "llm", "android", "ios", "idea"]
-published: false
+published: true
 publication_name: "kauche"
 ---
 こんにちは！カウシェで Mobile / QA Team の Engineering Manager を担当している [@akifumi](https://x.com/akifumifukaya) です。
