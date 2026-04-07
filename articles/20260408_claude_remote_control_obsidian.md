@@ -6,6 +6,8 @@ topics: ["claudecode", "obsidian", "ai", "productivity", "workflow"]
 published: false
 ---
 
+こんにちは！[akifumi](https://x.com/akifumifukaya) です。
+
 電車やバスでの移動中、「PCは開けないけど、あのタスク進めたいな」と思うことはないでしょうか。
 
 そこで、自宅のノートPCを24時間稼働させて、Claude Code の `/remote-control` で外出先からスマホで操作し、アウトプットは Obsidian で管理・閲覧するという環境を構築してみました。
