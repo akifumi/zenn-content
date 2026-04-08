@@ -1,6 +1,6 @@
 ---
 title: "24時間稼働PC × Claude × Obsidian の環境を構築したら体験がかなり良かった"
-emoji: "📱"
+emoji: "💎"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["claudecode", "obsidian", "ai", "productivity", "workflow"]
 published: false
